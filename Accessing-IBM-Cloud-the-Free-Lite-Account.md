@@ -39,3 +39,5 @@ an end point to translate text!
 When you have successfully finished sign up process - you are ready for the next steps. 
 
 Please claim your pre-provisioned cluster, and set up your environment for the labs.
+
+# Claiming your Red Hat Openshift cluster for this Workshop
