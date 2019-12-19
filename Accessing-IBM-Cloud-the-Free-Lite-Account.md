@@ -15,3 +15,27 @@ and check the Step 4 - Next Steps section.
 Congratulations! You have created a new IBM Cloud lite accound. 
 
 Now you can use if for free taking advantage of its free tier.
+
+Accessing-IBM-Cloud-the-Free-Lite-Account.md
+
+## Step 3 - activate your account
+
+Click on the confirmation link in the email you received from IBM to activate your cloud account. 
+
+Make sure you check the spam folder in your email. Now you are ready to access your IBM Cloud Dashboard, 
+
+and check the Next Steps section.
+
+Congratulations! You just signed up for IBM Cloud account. 
+
+The next steps will show you how to build a Docker container for a Node.js application that provides
+
+an end point to translate text!
+
+
+## Step 4 - Next Steps
+
+
+When you have successfully finished sign up process - you are ready for the next steps. 
+
+Please claim your pre-provisioned cluster, and set up your environment for the labs.
