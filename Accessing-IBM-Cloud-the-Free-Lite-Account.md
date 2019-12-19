@@ -42,6 +42,6 @@ Please claim your pre-provisioned cluster, and set up your environment for the l
 
 # Claiming your Red Hat Openshift cluster for this Workshop
 
-# Claiming.md
+# https://Red-Hat-OpenSHift-WorldTour/Claiming.md
 
 
