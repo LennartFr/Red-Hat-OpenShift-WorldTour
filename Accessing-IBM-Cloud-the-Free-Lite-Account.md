@@ -2,7 +2,7 @@
 
 ## Step 1 - sign up on IBM Cloud
 
-Sign up for IBM cloud on this linkhttps://ibm.biz/openshift-dec17
+Sign up for IBM cloud on this link [https://ibm.biz/openshift-dec17]
 
 If you have already an IBM lite account or a Pay-As-You-Go account
 
