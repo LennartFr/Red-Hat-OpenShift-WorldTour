@@ -16,6 +16,7 @@ __Lab 2__ - You will do a short exercise to ship an existing image from a public
 __Lab 3__ - You will be ready to create a container project, ship it to an internal Container Registry, and run the project in Red Hat OpenShift Kubernetes cluster on IBM Cloud.
 
 __Next steps__ - You will explore other labs using Minishift environment on a regular desktop computers. You can find here more materials and references for further study.
+
 Good luck! We hope you like this workshop!        
 
 # [Accessing the Free Lite Account in the IBM Cloud](Accessing-IBM-Cloud-the-Free-Lite-Account.md)
