@@ -1,4 +1,7 @@
-# This section will help you in accessing IBM Cloud with a free lite account
+# Accessing IBM Cloud - theFree Lite Account
+
+This section will help you in accessing IBM Cloud with a free lite account.
+
 
 # [Back](https://github.com/LennartFr/Red-Hat-OpenShift-WorldTour)
 
