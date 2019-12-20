@@ -10,4 +10,16 @@ You should see a terminal and an empty screen when you open your web shell.
 
 <img src="/img/webshell.png">
 
+Point your environment to IBM org as it is shown on the screenshot (the arrow no 1 first to get the IBM org, then arrow no 2 to start the terminal).
+
+## Your local Terminal
+
+Alternatively you might be using your own terminal.
+In such a case please make sure to install docker locally using Docker Desktop.
+
+## Next steps
+Congratulations! You have your environment setup and you are ready to start Labs. 
+
+# [Next Lab 1 Start with a Docker Image](lab1.md)
+
 # Next [Webshell.md]("webshell.md")
