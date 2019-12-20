@@ -11,4 +11,4 @@ Lab 3 - You will be ready to create a container project, ship it to an internal 
 Next steps - You will explore other labs using Minishift environment on a regular desktop computers. You can find here more materials and references for further study.
 Good luck! We hope you like this workshop!        
 
-(Accessing the Free Lite Account in the IBM Cloud)[Accessing-IBM-Cloud-the-Free-Lite-Account.md]
+# [Accessing the Free Lite Account in the IBM Cloud][Accessing-IBM-Cloud-the-Free-Lite-Account.md)
