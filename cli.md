@@ -8,6 +8,6 @@ You might prefer to use a predefined environment in a terminal available over we
 
 You should see a terminal and an empty screen when you open your web shell. 
 
-<img src="webshell.png">
+<img src="/img/webshell.png">
 
 # Next [Webshell.md]("webshell.md")
