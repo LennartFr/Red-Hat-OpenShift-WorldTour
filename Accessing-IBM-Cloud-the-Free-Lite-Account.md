@@ -22,6 +22,9 @@ Now you can use if for free taking advantage of its free tier.
 
 Accessing-IBM-Cloud-the-Free-Lite-Account.md
 
+<img src="<img src="/img/creation.png">
+
+
 ## Step 3 - activate your account
 
 Click on the confirmation link in the email you received from IBM to activate your cloud account. 
