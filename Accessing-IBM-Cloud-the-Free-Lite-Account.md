@@ -45,5 +45,5 @@ When you have successfully finished sign up process - you are ready for the next
 
 Please claim your pre-provisioned cluster, and set up your environment for the labs.
 
-## [Claiming your Red Hat Openshift cluster for this Workshop](https://github.com/LennartFr/Red-Hat-OpenShift-WorldTour/blob/master/Claiming.md)
+## [Next: Claiming your Red Hat Openshift cluster for this Workshop](https://github.com/LennartFr/Red-Hat-OpenShift-WorldTour/blob/master/Claiming.md)
 
