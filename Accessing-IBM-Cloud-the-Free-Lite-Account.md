@@ -12,6 +12,8 @@ please access your IBM Cloud Dashboard by clicking the above link,
 
 and check the Step 4 - Next Steps section.
 
+<img src="/img/signup.png">
+
 ## Step 2 - you created a new IBM Cloud lite account
 
 Congratulations! You have created a new IBM Cloud lite accound. 
