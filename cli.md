@@ -11,4 +11,4 @@ https://workshop.shell.cloud.ibm.com​
 
 You should see a terminal and an empty screen when you open your web shell. 
 
-<webshell.cmd">
+<"webshell.md">
