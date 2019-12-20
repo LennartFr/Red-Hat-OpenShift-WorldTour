@@ -31,11 +31,11 @@ Make sure you check the spam folder in your email. Now you are ready to access y
 
 and check the Next Steps section.
 
-* Congratulations! You just signed up for IBM Cloud account.* 
+*Congratulations! You just signed up for IBM Cloud account.* 
 
-* The next steps will show you how to build a Docker container for a Node.js application that provides*
+*The next steps will show you how to build a Docker container for a Node.js application that provides*
 
-* an end point to translate text!*
+*an end point to translate text!*
 
 
 ## Step 4 - Next Steps
