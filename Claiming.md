@@ -24,7 +24,7 @@ Enter the Lab Key given by your instructor, as well as the email address associa
 After you hit submit, you will be given a cluster for the duration of the workshop.
 You should be given the result page showing the successful assignment
 
-<img src="/img/congratulation.png">
+<img src="/img/congratulations.png">
 
 When you sign up / log in to IBM Cloud, from the Dashboard you need to navigate to IBM Org (specified with number 1840867 - IBM).
 If something wrong happend with above assignment during in-person workshop please raise your hand, someone will come find you.
