@@ -1,5 +1,7 @@
 <img src="/img/redhat.png">
 
+[Kubernetes with Openshift World tour](https://developer.ibm.com/openshift-world-tour/?ibmdev-kowt)
+
 # Red Hat OpenShift Workshop
 
 ## Introduction to the workshop
