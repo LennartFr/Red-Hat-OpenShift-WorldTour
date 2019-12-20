@@ -23,3 +23,16 @@ Enter the Lab Key given by your instructor, as well as the email address associa
 
 After you hit submit, you will be given a cluster for the duration of the workshop.
 You should be given the result page showing the successful assignment
+
+<img src="/img/congratulation.png">
+
+When you sign up / log in to IBM Cloud, from the Dashboard you need to navigate to IBM Org (specified with number 1840867 - IBM).
+If something wrong happend with above assignment during in-person workshop please raise your hand, someone will come find you.
+
+
+### Next Steps
+__Congratulations!__ You obtained a Red Hat OpenShift cluster. You are ready to set up your CLI environment.
+
+# Next Command line Interface. Using the CLI in a terminal
+
+# Back
