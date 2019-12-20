@@ -33,6 +33,6 @@ If something wrong happend with above assignment during in-person workshop pleas
 ### Next Steps
 __Congratulations!__ You obtained a Red Hat OpenShift cluster. You are ready to set up your CLI environment.
 
-# Next Command line Interface. Using the CLI in a terminal
+# Next [Command line Interface.](CLI.md)
 
 # Back
