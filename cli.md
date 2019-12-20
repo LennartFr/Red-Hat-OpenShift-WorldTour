@@ -21,5 +21,4 @@ In such a case please make sure to install docker locally using Docker Desktop.
 Congratulations! You have your environment setup and you are ready to start Labs. 
 
 # [Next Lab 1 Start with a Docker Image](lab1.md)
-
-# Next [Webshell.md]("webshell.md")
+)
