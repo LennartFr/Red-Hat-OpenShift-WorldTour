@@ -9,7 +9,7 @@
 If you want to learn in-depth about the containers technology this is a good place to start. 
 Use left side menu to navigate thru this Gitbook.
 
-_Lab 1_ - During this workshop you will build-ship-and-run a node.js based container with the language translation microservice utilizing IBM Watson for the translation. 
+__Lab 1__ - During this workshop you will build-ship-and-run a node.js based container with the language translation microservice utilizing IBM Watson for the translation. 
 
 _Lab 2_ - You will do a short exercise to ship an existing image from a public container registry and deploy it in Red Hat OpenShift Kubernetes cluster on IBM Cloud.
 
