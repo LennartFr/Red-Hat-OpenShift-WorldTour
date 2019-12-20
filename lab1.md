@@ -11,3 +11,5 @@ For this Lab you will use Docker.
 
 <img src="/img/docker.png">
 
+<img src="/img/build.ship.run.png">
+
