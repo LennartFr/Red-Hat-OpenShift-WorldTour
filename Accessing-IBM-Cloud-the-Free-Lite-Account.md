@@ -1,4 +1,4 @@
-# Accessing IBM Cloud - theFree Lite Account
+# Accessing IBM Cloud - the Free Lite Account
 
 This section will help you in accessing IBM Cloud with a free lite account.
 
