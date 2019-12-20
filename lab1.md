@@ -9,3 +9,5 @@ This workshop is an introduction to Docker, which is a runtime for containers. Y
 
 For this Lab you will use Docker. 
 
+<img src="/img/docker.jpg">
+
