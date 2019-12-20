@@ -1,4 +1,4 @@
 # Claiming.md
 
 
-<img src="welcome.png">
+<img src="img\welcome.png">
