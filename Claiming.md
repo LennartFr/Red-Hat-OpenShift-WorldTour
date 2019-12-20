@@ -18,3 +18,8 @@ After you hit submit, you will be given a cluster for the duration of the worksh
 You should be given the result page showing the successful assignment.
 
 <img src="/img/welcome.png">
+
+Enter the Lab Key given by your instructor, as well as the email address associated with your IBM Cloud account. The Region may be given to you by your instructor, if you don’t have the option don’t worry about it.
+
+After you hit submit, you will be given a cluster for the duration of the workshop.
+You should be given the result page showing the successful assignment
