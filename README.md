@@ -1,4 +1,4 @@
-/img/redhat.png
+<img src="/img/redhat.png">
 
 # Red Hat OpenShift Workshop
 
