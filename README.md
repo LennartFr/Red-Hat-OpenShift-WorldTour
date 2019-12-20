@@ -11,9 +11,9 @@ Use left side menu to navigate thru this Gitbook.
 
 __Lab 1__ - During this workshop you will build-ship-and-run a node.js based container with the language translation microservice utilizing IBM Watson for the translation. 
 
-_Lab 2_ - You will do a short exercise to ship an existing image from a public container registry and deploy it in Red Hat OpenShift Kubernetes cluster on IBM Cloud.
+__Lab 2__ - You will do a short exercise to ship an existing image from a public container registry and deploy it in Red Hat OpenShift Kubernetes cluster on IBM Cloud.
 
-_Lab 3_ - You will be ready to create a container project, ship it to an internal Container Registry, and run the project in Red Hat OpenShift Kubernetes cluster on IBM Cloud.
+__Lab 3__ - You will be ready to create a container project, ship it to an internal Container Registry, and run the project in Red Hat OpenShift Kubernetes cluster on IBM Cloud.
 Next steps - You will explore other labs using Minishift environment on a regular desktop computers. You can find here more materials and references for further study.
 Good luck! We hope you like this workshop!        
 
