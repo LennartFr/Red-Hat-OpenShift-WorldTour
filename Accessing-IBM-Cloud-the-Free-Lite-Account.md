@@ -20,7 +20,6 @@ Congratulations! You have created a new IBM Cloud lite accound.
 
 Now you can use if for free taking advantage of its free tier.
 
-Accessing-IBM-Cloud-the-Free-Lite-Account.md
 
 <img src="<img src="/img/creation.png">
 
